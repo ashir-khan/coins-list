@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "CoinMooner token",
+    "symbol": "MOONER",
+    "description": "CoinMooner aims to be a crypto community platform to make cryptocurrency more accessible to the public, provide entertaining features, developments and news. We want to stay relevant and keep up with rapid crypto growth. Our ambitious but realistic roadmap ensures a safe journey over the Moon!",
+    "upvoteCount": 561,
+    "website": "https://coinmooner.com"
+  },
+  {
+    "id": 2,
+    "name": "Dash 2 Trade",
+    "symbol": "D2T",
+    "description": "Dash 2 Trade is designed to take your crypto trading to the next level. From creating and testing trading strategies to tracking the latest news and on-chain data, Dash 2 Trade makes you stay on top of the market.",
+    "upvoteCount": 473,
+    "website": "https://dash2trade.com/"
+  },
+  {
+    "id": 3,
+    "name": "Metacade",
+    "symbol": "MCADE",
+    "description": "The Metacade is the ultimate Web3 community hub where gamers and crypto fanatics can communicate and collaborate.",
+    "upvoteCount": 189,
+    "website": "https://metacade.co/"
+  },
+  {
+    "id": 4,
+    "name": "Dynamx Binamon",
+    "symbol": "DYNABMON",
+    "description": "Win NFTs by defeating your opponent in battle. We are creating an NFT monsters battle game where you can win the opponents NFT if you defeat them.",
+    "upvoteCount": 864,
+    "website": "https://www.dynamaxbinamon.co/"
+  },
+  {
+    "id": 5,
+    "name": "Mind Music",
+    "symbol": "MND",
+    "description": "Mind Music Coin has been set up for the purpose of using music to raise awareness for mental health. Millions of people around the world suffer everyday with poor mental health. Mind music hopes to #breakthestigma and bring people together for an incredibly important, long overdue conversation.",
+    "upvoteCount": 401,
+    "website": "https://mindmusic.finance/"
+  },
+  {
+    "id": 6,
+    "name": "The Web3 Project",
+    "symbol": "WEB3",
+    "description": "The Web3 Project provides a decentralized financial asset that rewards users with a sustainable fixed compound interest model through the use of its unique Web3 Auto-Reward Protocol (WARP) Web3 Auto-Reward Protocol (WARP) is a new financial protocol that makes rewards easier, more efficient and awards $TWEP token holders the highest stable returns in crypto. Web3 Auto-Reward Protocol (WARP) gives the $TWEP token automatic reward and compounding features, and the sustainable price boost of 30% annually and a 20% APY The Web3 project is a company focused on DeFi, GameFI and Social Finance innovations that creates benefits and value for $TWEP token holders.",
+    "upvoteCount": 56,
+    "website": "https://www.theweb3project.com/"
+  },
+  {
+    "id": 7,
+    "name": "LinkSync",
+    "symbol": "SYNC",
+    "description": "LinkSync is created by crypto enthusiasts with the sole purpose to solve the biggest obstacle in the crypto marketers, which is uncertainty.",
+    "upvoteCount": 175,
+    "website": "https://linksync.tech/"
+  },
+  {
+    "id": 8,
+    "name": "RobotEra",
+    "symbol": "TARO",
+    "description": "RobotEra building a sandbox-like planet-rebuilding metaverse. You will become a robot, managing your own land and participating in the creation of the world. It can also acquire resources from the land, create robot companions. Here, create everything you can imagine and start a new era with other robots.",
+    "upvoteCount": 762,
+    "website": "https://robotera.io/"
+  }
+]
